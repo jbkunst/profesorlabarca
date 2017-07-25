@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: actividades
+published: true
 ---
 
 ## Pensamientos
@@ -11,6 +12,8 @@ El markdown preview de _atom_ la lleva.
 1. Item 1
 1. Item 1
 1. Item 10
+
+[google](google.com "hey")
 
 ```
 if (miniProtocol(588687) > donationware) {
