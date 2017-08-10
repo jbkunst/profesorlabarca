@@ -1,4 +1,9 @@
 ---
+title: Post Asdfasdf
+date: 2016-05-22 12:00:00 Z
+categories:
+- actividades
+layout: post
 ---
 
 # Volat ab tuus
