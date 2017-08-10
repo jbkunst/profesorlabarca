@@ -1,28 +1,15 @@
----
 title: Profesor Labarca
 timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 email: jbkunst@gmail.com
 baseurl: ''
-url: http://profesorlabarca.cl
+url: "http://profesorlabarca.cl"
 markdown: kramdown
+
 include:
 - _pages
-permalink: "/:categories/:title/"
+
 gems:
 - jekyll-paginate
 
-pagination:
-  enabled: true
-  sort_field: 'author:name:first'
-
-
 paginate: 4
-paginate_path: noticias/page:num/
-paginate_reversed: false
+paginate_path: "noticias/page:num/"
