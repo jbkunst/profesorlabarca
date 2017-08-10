@@ -1,9 +1,13 @@
 ---
+<<<<<<< HEAD:_posts/2016-09-22-post-asdf.md
 title: Post Asdf
 date: 2016-09-22 12:00:00 Z
 categories:
 - noticias
 layout: post
+=======
+title: 2016 09 22 Post Asdf
+>>>>>>> acb7fd39ae996428ef4580614fb98614d6b5a98b:_posts/post-asdf.md
 ---
 
 # Volat ab tuus

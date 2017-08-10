@@ -1,9 +1,5 @@
 title: Profesor Labarca
-email: jbkunst@gmail.com
-baseurl: ""
-url: http://profesorlabarca.cl
 timezone: UTC
-
 collections:
   posts:
     title: Posts
@@ -11,17 +7,14 @@ collections:
   uploads:
     title: Uploads
     output: true
-
+email: jbkunst@gmail.com
+baseurl: ''
+url: http://profesorlabarca.cl
 markdown: kramdown
-
 include:
 - _pages
 permalink: "/:categories/:title/"
-
-# https://jekyllrb.com/docs/pagination/
-# https://github.com/jekyll/jekyll/issues/4124#issuecomment-232065435
-# https://stackoverflow.com/questions/26048623/jekyll-blog-posts-on-non-index-html-pages
 gems:
 - jekyll-paginate
 paginate: 4
-paginate_path: "noticias/page:num/"
+paginate_path: noticias/page:num/

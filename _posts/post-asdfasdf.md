@@ -1,9 +1,13 @@
 ---
+<<<<<<< HEAD:_posts/2016-05-22-post-asdfasdf.md
 title: Post Asdfasdf
 date: 2016-05-22 12:00:00 Z
 categories:
 - actividades
 layout: post
+=======
+title: 2016 05 22 Post Asdfasdf
+>>>>>>> acb7fd39ae996428ef4580614fb98614d6b5a98b:_posts/post-asdfasdf.md
 ---
 
 # Volat ab tuus
