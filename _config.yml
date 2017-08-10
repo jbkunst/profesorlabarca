@@ -17,12 +17,9 @@ include:
 permalink: "/:categories/:title/"
 gems:
 - jekyll-paginate
-
 pagination:
   enabled: true
-  sort_field: 'author:name:first'
-
-
+  sort_field: author:name:first
 paginate: 4
 paginate_path: noticias/page:num/
 paginate_reversed: false
