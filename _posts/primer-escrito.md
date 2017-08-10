@@ -1,13 +1,4 @@
 ---
-<<<<<<< HEAD:_posts/2016-10-26-primer-escrito.md
-title: Primer Escrito
-date: 2016-10-26 12:00:00 Z
-categories:
-- noticias
-layout: post
-=======
-title: 2016 10 26 Primer Escrito
->>>>>>> acb7fd39ae996428ef4580614fb98614d6b5a98b:_posts/primer-escrito.md
 ---
 
 # Autem mei nequeo equumque fulvis his notatum
