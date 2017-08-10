@@ -1,13 +1,21 @@
 title: Profesor Labarca
-email: jbkunst
+email: jbkunst@gmail.com
 baseurl: ""
-url: "http://example.com" # the base hostname & protocol for your site
+url: http://profesorlabarca.cl
 timezone: UTC
 
-# Build settings
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+
 markdown: kramdown
 
-include: ['_pages']
+include:
+- _pages
 permalink: "/:categories/:title/"
 
 # https://jekyllrb.com/docs/pagination/
@@ -15,6 +23,5 @@ permalink: "/:categories/:title/"
 # https://stackoverflow.com/questions/26048623/jekyll-blog-posts-on-non-index-html-pages
 gems:
 - jekyll-paginate
-
 paginate: 4
 paginate_path: "noticias/page:num/"

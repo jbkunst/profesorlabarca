@@ -1,7 +1,14 @@
 ---
+title: Primer Escrito
+date: 2016-10-26 00:00:00 Z
+categories:
+- noticias
 layout: post
+<<<<<<< HEAD
 date: 2016-10-26 12:00:00 Z
 categories: noticias
+=======
+>>>>>>> a036f86eefa588155be88a6e9889da8bf8a77cf0
 ---
 
 # Autem mei nequeo equumque fulvis his notatum

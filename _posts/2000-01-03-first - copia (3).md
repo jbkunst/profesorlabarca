@@ -1,14 +1,9 @@
 ---
-title: First
-date: 2000-01-01 00:00:00 Z
+title: First   copia (3)
+date: 2000-01-03 00:00:00 Z
 categories:
-- noticias
+- actividades
 layout: post
-<<<<<<< HEAD:_posts/2016-05-20-first.md
-date: 2016-05-20 12:00:00 Z
-categories: noticias
-=======
->>>>>>> a036f86eefa588155be88a6e9889da8bf8a77cf0:_posts/2000-01-01-first.md
 ---
 
 # Deserti clementia erat
