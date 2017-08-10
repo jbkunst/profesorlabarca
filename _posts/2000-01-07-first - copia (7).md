@@ -1,6 +1,10 @@
 ---
+title: First   copia (7)
+date: 2000-01-07 00:00:00 Z
+categories:
+- '1000'
+- razones
 layout: post
-categories: "1000 razones"
 ---
 
 # Gelidas illi unum ne Nabataeus ut alto

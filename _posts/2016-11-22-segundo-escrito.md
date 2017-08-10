@@ -1,7 +1,9 @@
 ---
+title: Segundo Escrito
+date: 2016-11-22 00:00:00 Z
+categories:
+- actividades
 layout: post
-categories: actividades
-published: true
 ---
 
 ## Pensamientos

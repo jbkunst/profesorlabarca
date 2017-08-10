@@ -1,6 +1,10 @@
 ---
+title: First   copia (2)
+date: 2000-01-02 00:00:00 Z
+categories:
+- '1000'
+- razones
 layout: post
-categories: "1000 razones"
 ---
 
 # Dubitare factaque
