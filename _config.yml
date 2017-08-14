@@ -6,11 +6,12 @@ url: http://profesorlabarca.cl
 markdown: kramdown
 include:
 - _pages
+
 gems:
 - jekyll-paginate
+
 paginate: 4
 paginate_path: noticias/page:num/
-
 
 prose:
   rooturl: '_posts'
@@ -22,3 +23,14 @@ prose:
           label: "date"
           element: "text"
           value: "CURRENT_DATETIME"
+      - name: "tags"
+        field:
+          element: "select"
+          label: "Selecciona"
+          options:
+            - name: "Informaciones"
+              value: "informaciones"
+            - name: "Actividades"
+              value: "actividades"
+            - name: "CMAT"
+              value: "cmat"
