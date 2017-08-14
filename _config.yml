@@ -34,6 +34,10 @@ prose:
           label: "Fecha"
           element: "text"
           value: "CURRENT_DATETIME"
+      - name: "featured_image"
+        field:
+          label: "Imagen"
+          element: "text"
       - name: "comments"
         field:
           element: "checkbox"
