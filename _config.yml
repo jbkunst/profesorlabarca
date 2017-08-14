@@ -14,3 +14,9 @@ paginate_path: noticias/page:num/
 prose:
   rooturl: '_posts'
   media: 'media'
+  metadata:
+    - name: "date"
+    field:
+      element: "text"
+      label: "Date"
+      value: "CURRENT_DATETIME"
