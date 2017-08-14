@@ -21,6 +21,7 @@ paginate: 4
 paginate_path: noticias/page:num/
 
 prose:
+  siteurl: ""
   rooturl: '_posts'
   media: 'media'
   metadata:
