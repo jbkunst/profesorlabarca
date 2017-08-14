@@ -27,6 +27,11 @@ prose:
           label: "Fecha"
           element: "text"
           value: "CURRENT_DATETIME"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Comentarios"
+          value: true
       - name: "tags"
         field:
           element: "select"
