@@ -11,12 +11,14 @@ gems:
 paginate: 4
 paginate_path: noticias/page:num/
 
+
 prose:
   rooturl: '_posts'
   media: 'media'
   metadata:
-    - name: "date"
-    field:
-      element: "text"
-      label: "Date"
-      value: "CURRENT_DATETIME"
+    _posts:
+      - name: "date"
+        field:
+          label: "date"
+          element: "text"
+          value: "CURRENT_DATETIME"
