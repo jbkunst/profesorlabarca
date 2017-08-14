@@ -18,15 +18,19 @@ prose:
   media: 'media'
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titulo"
       - name: "date"
         field:
-          label: "date"
+          label: "Fecha"
           element: "text"
           value: "CURRENT_DATETIME"
       - name: "tags"
         field:
           element: "select"
-          label: "Selecciona"
+          label: "Categoria"
           options:
             - name: "Informaciones"
               value: "informaciones"
