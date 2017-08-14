@@ -7,6 +7,13 @@ markdown: kramdown
 include:
 - _pages
 
+defaults:
+  -
+    scope:
+      path: "posts"
+    values:
+      layout: "project"
+
 gems:
 - jekyll-paginate
 
@@ -32,13 +39,13 @@ prose:
           element: "checkbox"
           label: "Comentarios"
           value: true
-      - name: "tags"
+      - name: "categories"
         field:
           element: "select"
           label: "Categoria"
           options:
-            - name: "Informaciones"
-              value: "informaciones"
+            - name: "Noticias"
+              value: "noticias"
             - name: "Actividades"
               value: "actividades"
             - name: "CMAT"

@@ -3,8 +3,6 @@ title: Segundo Escrito
 date: 'Tue Nov 22 2016 09:00:00 GMT-0300 (Hora verano Sudamérica Pacífico)'
 categories:
   - actividades
-layout: post
-published: true
 ---
 
 ## Pensamientos
